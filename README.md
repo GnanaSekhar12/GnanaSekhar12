@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GnanaSekhar12
 - 👀 I’m interested in ...Java Projects
-- 🌱 I’m currently learning ...Java 
+- 🌱 I’m currently working on ...Java 
 - 💞️ I’m looking to collaborate on ...to contribute
 - 📫 How to reach me ...pgnanasekhar530@gmail.com
 
